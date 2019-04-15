@@ -24,7 +24,7 @@ Example config for Nginx is included, `/config/nginx.conf`
 ### Webvaloa
 The easiest way to install Webvaloa is to clone this repository to your server with:
 ```bash
-git clone https://github.com/sundflux/webvaloa.git
+git clone https://github.com/webvaloa/webvaloa.git
 ```
 
 Then you'll need to install dependencies using using [Composer](http://getcomposer.org/):
